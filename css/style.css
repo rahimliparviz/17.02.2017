@@ -163,6 +163,7 @@ text-decoration: none;}
 .photos .row div{
 	width: 25%;
 	margin: 0;
+    font-size: 0;
 }
 .photos .row div img{width: 100%;
 }
